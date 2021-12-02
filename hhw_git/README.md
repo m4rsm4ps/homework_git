@@ -1,5 +1,5 @@
 # damn homework
 
-I'm not crying now
-parse function changed, seems to be working a bit better
-also added 10 more asserts
+I haven't been crying for a while
+parse_cookie function and 10 additional tests added
+also some minor tweaks in parse function were made
