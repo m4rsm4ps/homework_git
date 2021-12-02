@@ -27,4 +27,3 @@ if __name__ == '__main__':
     assert parse('https://example.com/path/to/page?&&&&&&&&&&&&&&&&&&&&&&') == {}
     assert parse('http://example.com/path/to/page?zd@røväzæbáł') == {}
     assert parse('') == {}
-
